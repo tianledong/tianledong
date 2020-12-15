@@ -1,4 +1,6 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi there 
+<p><em>Software Enginner at <a href="https://www.northeastern.edu/">Northeastern University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align='left'>
